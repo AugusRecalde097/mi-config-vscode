@@ -14,7 +14,7 @@ Este README proporciona instrucciones paso a paso sobre cómo importar un perfil
 
 5. **Carga configuracion de perfil**: Una vez cargado el archivo te mostrará una lista de configuraciones. Puedes quitar o dejar las que tu quieras. Una vez conforme haz clic en `Crear perfil`
 
-6. **Crea perfil**: Por último, elige un nombre para el nuevo perfil que vas a crear, Haz clic en `crear`
+6. **Crea perfil**: Por último, elige un nombre para el nuevo perfil que vas a crear. Haz clic en `crear`
    
 ## ¡Listo!
 
